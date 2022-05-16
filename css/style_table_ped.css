@@ -1,0 +1,62 @@
+
+@media (max-width: 768px) {
+  .widget-content {
+  padding: 1px 1px 1px;
+
+  }
+  .table2{
+    background: #eceff1;
+  }
+  .widget .widget-header {
+      background: #FFF;
+  }
+}
+
+.table2 {
+width: 100%;
+}
+
+.thead1, .tbody1, .tr1, .td1, .th1 {
+    display: block;
+}
+/*
+thead th {
+    height: 60px;
+}
+*/
+.tbody2 {
+    overflow-y: auto;
+    /*height: 300px;*/
+    vertical-align: middle;
+    border-color: inherit;
+    font-size: 14px;
+    font-weight: 600;
+    color: #3F729B
+}
+
+
+tr:after {
+    clear: both;
+    content: ' ';
+    display: block;
+    visibility: hidden;
+}
+
+
+/* Define the hover highlight color for the table row */
+.hoverTable2 {
+  background-color: #ffff99;
+    color: red;
+}
+
+.widget .widget-content .widget-header {
+  border: solid  1px;
+  border-color:#cfd8dc ;
+  border-radius: 15px;
+  padding: 2px;
+  margin-top: 2px;
+}
+.cantidades{
+  float: left;
+   width: 100px;
+}

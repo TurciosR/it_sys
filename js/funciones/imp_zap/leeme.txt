@@ -1,0 +1,4 @@
+-compartir el impresor matricial, en este caso con el nombre "facturacion"
+-crear un directorio dentro del document_root de windows donde se ponen los script de recibo
+-en el directorio creado mover 3 archivos printcfwin1.php, printfactwin1.php  y printposwin1.php 
+

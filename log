@@ -1,0 +1,8 @@
+INSERT INTO log (id_log, fecha, hora, user, action, prev, post, obs) VALUES (NULL,'2018-06-06','00:47:19','','INSERCION', '','Ingreso valores a la tabla bancos
+Campos ingresados 
+nombre
+logo
+Valores ingresados 
+sadijsaiodj
+img/5b1783776ac4c_sal.png
+', '');
